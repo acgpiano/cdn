@@ -1,6 +1,6 @@
 {
   "name": "cdn",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A cdn for acgpiano",
   "main": "index.js",
   "scripts": {
